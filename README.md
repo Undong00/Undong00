@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello&fontColor=ffffff&fontAlign=10&fontSize=40)https://ko.emojiguide.com/스마일상-감정/smiling-face-with-smiling-eyes/
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello&fontColor=ffffff&fontAlign=10&fontSize=40:blush:)
 
 <!--
 **Undong00/Undong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
