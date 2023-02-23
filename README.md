@@ -1,6 +1,8 @@
-<h1><img src="https://user-images.githubusercontent.com/112850163/220837099-71e14f1b-9988-468a-a358-9e021b06e4ca.gif"
-><h1>Hello!</h1>
-</h1>
+<div style="border: 1px dotted red;">
+<img src= https://user-images.githubusercontent.com/112850163/220837919-4f88f3ce-cd24-46ba-bf15-d30763e116cd.gif>
+  <span style="margin-top:20px;font-size:18px;" >아이디망고 - IDMANGO</span>
+</div>
+
 
 <!--
 **Undong00/Undong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
