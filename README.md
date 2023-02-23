@@ -1,6 +1,6 @@
 <div style="border: 1px dotted red;">
 <img src= https://user-images.githubusercontent.com/112850163/220837919-4f88f3ce-cd24-46ba-bf15-d30763e116cd.gif>
-  <span style="margin-top:10px;font-size:40px;" >Hello!/span>
+  <span style="margin-top:10px;font-size:40px;" >Hello!</span>
 </div>
 
 
