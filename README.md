@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Undong&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Undong&fontColor=d6ace6&color=random)
 
 <!--
 **Undong00/Undong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
