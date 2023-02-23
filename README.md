@@ -1,4 +1,5 @@
-<h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 100px"/>Hello!</h1>
+![216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa](https://user-images.githubusercontent.com/112850163/220836431-a9647c6a-7ba1-4cf9-a339-f20a31edd777.gif)
+
 <!--
 **Undong00/Undong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
