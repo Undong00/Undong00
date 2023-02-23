@@ -1,5 +1,5 @@
 
-![header]![216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa](https://user-images.githubusercontent.com/112850163/220835192-875b639d-1c57-4f51-8659-430c705351b2.gif)![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello!&fontColor=ffffff&fontSize=40&fontAlign=30&f)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Hello!&fontColor=ffffff&fontSize=40&fontAlign=30&f)
 
 <!--
 **Undong00/Undong00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
