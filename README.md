@@ -1,7 +1,5 @@
-<div>
-<img src= https://user-images.githubusercontent.com/112850163/220837919-4f88f3ce-cd24-46ba-bf15-d30763e116cd.gif>
-  <span display="center">Hello!</span>
-</div>
+<h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 100px"/> Hello, There!</h1>
+
 
 
 <!--
