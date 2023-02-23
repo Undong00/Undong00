@@ -1,6 +1,6 @@
 <div>
 <img src= https://user-images.githubusercontent.com/112850163/220837919-4f88f3ce-cd24-46ba-bf15-d30763e116cd.gif>
-  <span >Hello!</span>
+  <span display="center">Hello!</span>
 </div>
 
 
