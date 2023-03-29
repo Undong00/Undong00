@@ -24,11 +24,9 @@
 
 <h2>🛠️ TOOLS 🛠️</h2>
 <p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
-<img style="width: 40px;" alt="xcode" src="https://user-images.githubusercontent.com/76584961/216272330-0370238a-e7a8-48df-8d39-28c5cd5c9612.png">
 <img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216276408-bfcaaff4-a516-4b63-9948-1508885f00a0.png">
 <img style="width: 40px;" alt="terminal" src="https://user-images.githubusercontent.com/76584961/216279126-7cfa9d77-554a-4753-a600-5e6166074248.png">
-<img style="width: 40px;" alt="typora" src="https://user-images.githubusercontent.com/76584961/216277590-ac90afd4-ed05-483f-862a-357c840eae79.png">
-<img style="width: 40px;" alt="opcidian" src="https://user-images.githubusercontent.com/76584961/216277688-233c8c2c-2762-4a6a-b7e4-d2ba697841b3.png">
+
 </p>
 
 ---
