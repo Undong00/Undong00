@@ -1,5 +1,5 @@
 
-![waving](https://capsule-render.vercel.app/api?type=Waving&height=300&width=200&text=Undong&desc=Wut%20matters%20is%20the%20indomitable%20spirit&descAlignY=60&fontAlign=50&fontSize=50&fontAlignY=40&color=gradient&animation=fadeIn&fontColor=#d1d1d1)
+![waving](https://capsule-render.vercel.app/api?type=Waving&height=300&width=200&text=Undong&descAlignY=60&fontAlign=50&fontSize=50&fontAlignY=40&color=gradient&animation=fadeIn&fontColor=#d1d1d1)
 
 <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hello, There!</h1>
 
