@@ -19,7 +19,8 @@
 <!--<img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seogun95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Undong00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undong00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>🛠️ TOOLS 🛠️</h2>
