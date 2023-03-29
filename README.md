@@ -41,8 +41,6 @@
 ------
 <h2>WHERE TO FIND ME?</h2>
 
-<p align="center">Follow me on Instagram! <img alt="instagram" src="https://user-images.githubusercontent.com/76584961/216097483-1682634a-25ea-45ba-a112-9993858197d5.png" style="width: 20px"> <a href="https://www.instagram.com/suun_dal_95/" target="_blank" rel="noopener noreferrer">@suun_dal_95</a>
-  </p>
   <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Undong00" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"></a> 
 
 </p>
