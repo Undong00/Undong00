@@ -7,7 +7,7 @@
 
 
 
-<h2><img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/> MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/></h2>
+<h2><img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/>MY TECH STACK<img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/></h2>
 
 <p>
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
