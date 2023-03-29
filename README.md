@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeogun95&count_bg=%23C8A03D&title_bg=%23555555&icon=git.svg&icon_color=%23FFFFFF&title=Seogun95&edge_flat=false"/></a>
+
 
 <h2>MY TECH STACK <img src="https://user-images.githubusercontent.com/76584961/217931497-5525468d-4682-4e93-aaae-fcad0a1b9840.gif" style="height: 30px"/></h2>
 
