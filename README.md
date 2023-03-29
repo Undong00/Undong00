@@ -14,13 +14,8 @@
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093017-3e1770bb-a305-492b-b0f7-c12e7935fae4.png" alt="css">
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093342-7b2cdcf6-9150-4b30-aedd-d5f79b1f44c8.png" alt="html">
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216442416-85fcfa93-7512-4b9e-9ff4-1f3b4a9a6567.gif" alt="js">
-   <img width="30" src="https://user-images.githubusercontent.com/76584961/216117810-7c78b892-cb2b-4050-8911-f51ae15cb85e.png" alt="swift">
-   <img width="30" src="https://user-images.githubusercontent.com/76584961/216117822-e83f9b0c-3e41-44ac-9da9-05ecf3494c99.png" alt="swiftui">
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript">    
    <img width="30" src="https://user-images.githubusercontent.com/76584961/218177725-96163589-fe2d-46ee-87b8-554b1b085260.png" alt="react"> 
-   <img width="30" alt="styled" src="https://user-images.githubusercontent.com/76584961/218177308-36505717-ca4c-4da9-bb04-ffefa5ace9aa.png">
-   <img width="30" alt="scss" src="https://user-images.githubusercontent.com/76584961/218178822-3037b0b3-07cc-486c-bda4-eb254eabe85a.png">
- 
 <!--<img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->
 </p>
 
