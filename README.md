@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=randomt&height=300&section=footer&text=Undong%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=random&height=250&section=header&text=Undong's%20GitHub&fontSize=70&animation=scaleIn)
 
 <h1><img src="https://user-images.githubusercontent.com/76584961/216099537-e1b5f736-96a4-4dee-94f3-5f040a105cfa.gif" style="height: 30px"/> Hello, There!</h1>
 
