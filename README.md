@@ -40,7 +40,8 @@
 ------
 <h2>WHERE TO FIND ME?</h2>
 
-  <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Undong00" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"><a href="https://github.com/Undong00" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px">
+  <p align="center"><img src="https://user-images.githubusercontent.com/76584961/216103441-02b488d1-cf51-4c47-afae-ddc6fbec868e.gif" style="height: 40px"/><a href="https://github.com/Undong00" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="https://user-images.githubusercontent.com/76584961/216338764-0852c2aa-60ff-47e5-ab06-653a4101f8c6.png" style="height: 40px"><a href="https://velog.io/@ehddjs113" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="Github" src="![다운로드](https://user-images.githubusercontent.com/112850163/228501015-59f57ff7-00d7-4834-a6bf-a4942761b470.png)
+" style="height: 40px">
  
 
 </p>
