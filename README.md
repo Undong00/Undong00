@@ -19,8 +19,7 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undong00&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undong00&layout=compact)](https://github.com/Undong00/github-readme-stats)
-
+<img src="https://raw.githubusercontent.com/Undong00/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 <h2>🛠️ TOOLS 🛠️</h2>
 <p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
