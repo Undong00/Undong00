@@ -20,9 +20,6 @@
 <!--<img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->
 
 
-
-   <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
-</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undong00&layout=compact)](https://github.com/Undong00/github-readme-stats) -->
 
 <h2>🛠️ TOOLS 🛠️</h2>
