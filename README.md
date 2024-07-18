@@ -21,7 +21,7 @@
    <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undong00&show_icons=true&theme=radical)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undong00&layout=compact)](https://github.com/Undong00/github-readme-stats) -->
 
 <h2>🛠️ TOOLS 🛠️</h2>
