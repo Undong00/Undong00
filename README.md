@@ -22,9 +22,10 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Undong00&show_icons=true&theme=radical)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undong00&layout=compact)](https://github.com/Undong00/github-readme-stats) -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Undong00&layout=compact)](https://github.com/Undong00/github-readme-stats) -->
+  <img align="right" src="https://user-images.githubusercontent.com/76584961/216432124-bd562e56-0bc3-495d-8585-b60ad15e5033.gif" style="max-width: 100%; width: 250px; display: inline-block;"/>
+</p>
 <h2>🛠️ TOOLS 🛠️</h2>
 <p>   <img style="width: 40px;" alt="vscode" src="https://user-images.githubusercontent.com/76584961/216272325-ac8b1a90-41ae-42f9-84f9-b9ad9a485a6f.png">
 <img style="width: 40px;" alt="iterm2" src="https://user-images.githubusercontent.com/76584961/216276408-bfcaaff4-a516-4b63-9948-1508885f00a0.png">
