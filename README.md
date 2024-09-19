@@ -16,7 +16,7 @@
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript">    
    <img width="30" src="https://user-images.githubusercontent.com/76584961/218177725-96163589-fe2d-46ee-87b8-554b1b085260.png" alt="react"> 
    <img width="30" src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png" alt="node.js">
-   <img width="30" src="https://www.google.com/imgres?q=next.js&imgurl=https%3A%2F%2Fwww.soaple.io%2Fstatic%2Fpost%2F8%2Fcover-image.png&imgrefurl=https%3A%2F%2Fwww.soaple.io%2Fpost%2F8&docid=sSpKvs7plFCgLM&tbnid=VH_aPEC0HKnTXM&vet=12ahUKEwiX_Pamxs6IAxV3avUHHQo_JR0QM3oECG8QAA..i&w=720&h=720&hcb=2&ved=2ahUKEwiX_Pamxs6IAxV3avUHHQo_JR0QM3oECG8QAA" alt="next.js">
+   <img width="30" src="file:///Users/undong/Desktop/%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%85%E1%85%A9%E1%84%83%E1%85%B3.png" alt="next.js">
 <!--    <img width="30" src="https://camo.githubusercontent.com/b700fb662c16aecd98a5f9703807682ea03fb5a31c1bc5dbd7173583cc6200f1/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e657874646f746a732f303030303030" alt="next">  -->
 <!--<img style="width: 50px;" src="https://user-images.githubusercontent.com/76584961/216094038-441f7d64-1d02-4301-917c-6999c9f9723e.png" alt="bootstrap"> -->
 
