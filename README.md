@@ -14,9 +14,9 @@
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093342-7b2cdcf6-9150-4b30-aedd-d5f79b1f44c8.png" alt="html">
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216442416-85fcfa93-7512-4b9e-9ff4-1f3b4a9a6567.gif" alt="js">
    <img width="30" src="https://user-images.githubusercontent.com/76584961/216093353-d6b5485d-8e51-4f85-a090-552d8cb122ca.png" alt="typescript">    
-   <img width="30" src="https://user-images.githubusercontent.com/76584961/218177725-96163589-fe2d-46ee-87b8-554b1b085260.png" alt="react"> 
-   <img width="30" src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png" alt="node.js">
+   <img width="30" src="https://user-images.githubusercontent.com/76584961/218177725-96163589-fe2d-46ee-87b8-554b1b085260.png" alt="react">
    <img width="30" src="https://github.com/user-attachments/assets/f6b0bb26-d54e-4417-86f3-5bee16420a19" alt="next.js">
+   <img width="30" src="https://user-images.githubusercontent.com/4727/38117885-69734bbc-336c-11e8-8653-86b0fa071896.png" alt="node.js">
    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL">
 <!--    <img width="30" src="https://camo.githubusercontent.com/b700fb662c16aecd98a5f9703807682ea03fb5a31c1bc5dbd7173583cc6200f1/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e657874646f746a732f303030303030" alt="next">  -->
